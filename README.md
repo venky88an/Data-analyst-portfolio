@@ -5,3 +5,6 @@ Skills:
 
 [Exploratory_Data_Analysis_Ecommerce_Kaggle dataset](https://github.com/venky88an/Data-analyst-portfolio/blob/main/Exploratory_Data_Analysis_Ecommerce_dataset.ipynb)
 Skills:
+
+[Data Analytics on Netflix customer base kaggle dataset](https://github.com/venky88an/Data-analyst-portfolio/blob/main/Data_Analytics_Netflix_customer_base_pandas_(Python)_10_10_2024.ipynb)
+Skills:
