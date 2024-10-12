@@ -11,3 +11,6 @@ Skills:
 
 [Health insurance data analysis ](https://github.com/venky88an/Data-analyst-portfolio/blob/main/Health_insurance_data_analysis_experiment_12_10_2024.ipynb)
 Skills:
+[Customer segmentation RFM model data analysis on retail data ](https://github.com/venky88an/Data-analyst-portfolio/blob/main/Customer_segmentation_RFM_model_12_10_2024.ipynb)
+[Dataset](https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset)
+Skills:
