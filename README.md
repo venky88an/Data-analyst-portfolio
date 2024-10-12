@@ -8,3 +8,6 @@ Skills:
 
 [Data Analytics on Netflix customer base kaggle dataset](https://github.com/venky88an/Data-analyst-portfolio/blob/main/Data_Analytics_Netflix_customer_base_pandas_(Python)_10_10_2024.ipynb)
 Skills:
+
+[Health insurance data analysis ](https://github.com/venky88an/Data-analyst-portfolio/blob/main/Health_insurance_data_analysis_experiment_12_10_2024.ipynb)
+Skills:
