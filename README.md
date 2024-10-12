@@ -21,3 +21,5 @@ Skills:
 [Customer segmentation RFM model data analysis on retail data ](https://github.com/venky88an/Data-analyst-portfolio/blob/main/Customer_segmentation_RFM_model_12_10_2024.ipynb), [Dataset](https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset)
 
 Skills:
+
+### Exploratory Data Analysis using SQL
