@@ -38,3 +38,7 @@ SQL queries:[Data cleaning on employee layoff.sql](https://github.com/venky88an/
 
 Goal: The experiment involves loading the dataset and analysis of laid-off details by country, location/others, database creation, SQL queries execution, Exploratory Data Analysis, and performance optimization.
 
+SQL queries:[Bike Sales_Analytics.sql](https://github.com/venky88an/Data-analyst-portfolio/blob/main/Bike_sales_analysis_18_10.sql)[Dataset](https://www.kaggle.com/datasets/yasinnaal/bikes-sales-sample-data)
+
+Goal: The experiment involves loading the dataset and analyzing bike sales, calculating and making the final conclusion of the total sales amount on each product bike category, Exploratory Data Analysis, and finding the top product sales based on the revenue and total sales by the employees.
+
