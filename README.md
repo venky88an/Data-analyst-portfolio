@@ -33,3 +33,8 @@ Skills: Data preprocessing, Data cleaning, exploratory data analysis (EDA), feat
 Technology: Python, Pandas, Matplotlib, Seaborn, plotly
 
 ### Exploratory Data Analysis using SQL
+
+SQL queries: [Data analysis on employee layoff.sql](https://github.com/venky88an/Data-analyst-portfolio/blob/main/Exploratory_data_analysis_layoff_using_clean_data.sql)
+
+Goal: The experiment involves loading the dataset and analysis of laid-off details by country, location/others, database creation, SQL queries execution, Exploratory Data Analysis, and performance optimization.
+
