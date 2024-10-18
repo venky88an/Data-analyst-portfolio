@@ -34,7 +34,7 @@ Technology: Python, Pandas, Matplotlib, Seaborn, plotly
 
 ### Exploratory Data Analysis using SQL
 
-SQL queries: [Data analysis on employee layoff.sql](https://github.com/venky88an/Data-analyst-portfolio/blob/main/Exploratory_data_analysis_layoff_using_clean_data.sql)
+SQL queries:[Data cleaning on employee layoff.sql](https://github.com/venky88an/Data-analyst-portfolio/blob/main/Data_cleaning_using_layoffs_sql.sql), [Exploratory Data Analysis on employee layoff.sql](https://github.com/venky88an/Data-analyst-portfolio/blob/main/Exploratory_data_analysis_layoff_using_clean_data.sql), [Dataset](https://github.com/venky88an/Data-analyst-portfolio/blob/main/layoffs.csv)
 
 Goal: The experiment involves loading the dataset and analysis of laid-off details by country, location/others, database creation, SQL queries execution, Exploratory Data Analysis, and performance optimization.
 
